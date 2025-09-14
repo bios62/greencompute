@@ -1,6 +1,12 @@
 # Local .terraform directories
 .terraform/
 
+# variable files, the might contsain securty info
+*.tvvars
+
+# provider definition
+*provider*
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
