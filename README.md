@@ -11,3 +11,8 @@ The project will containb the following
 
 Ambisious,yes, but we are wasting too much electric energy on doing what?
 
+Directories
+compute:  terraforms script to spin up required resources, ARM, X64-AMD E6 and X64 Intel shapes
+init:     Initial scripts to be run when teh instances are created, download this repo and dependencies for running the benchmark programs
+benchmark: Java and Python programs with the various workload tests, links to other benchmarks or descrete programs
+
